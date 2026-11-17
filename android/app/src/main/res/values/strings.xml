@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crossroad Rooster</string>
+
+    <string name="app_title">CROSSROAD ROOSTER</string>
+    <string name="app_tagline">PLAN THE ROUTE · READ THE RHYTHM · DELIVER</string>
+    <string name="app_tagline_short">EVENING SHIFT DISPATCH</string>
+    <string name="loading">LOADING</string>
+
+    <string name="action_play">PLAY</string>
+    <string name="action_play_again">PLAY AGAIN</string>
+    <string name="action_next_level">NEXT LEVEL</string>
+    <string name="action_menu">MENU</string>
+    <string name="action_back">BACK</string>
+    <string name="action_levels">LEVELS</string>
+    <string name="action_how_to_play">HOW TO PLAY</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="action_done">DONE</string>
+    <string name="action_go">GO</string>
+    <string name="action_hold">HOLD</string>
+    <string name="action_undo">UNDO</string>
+    <string name="action_clear">CLEAR</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_restart">RESTART</string>
+    <string name="action_replay">REPLAY</string>
+    <string name="action_pause">PAUSE</string>
+
+    <string name="mode_route">ROUTE</string>
+    <string name="mode_sign">SIGN</string>
+
+    <string name="menu_hint">ONE TAP QUEUES ONE TICK OF THE SHIFT</string>
+    <string name="next_contract">NEXT CONTRACT</string>
+    <string name="game_hint">TAP A CELL TO QUEUE A MOVE · TAP THE ROOSTER MID RUN TO WAIT ONE TICK</string>
+    <string name="wind_banner">WIND PICKS UP · ONE LANE SPEEDS UP</string>
+    <string name="ribbon_hidden">RIBBON OFF · BONUS SCORING</string>
+
+    <string name="level_number">LEVEL %1$d</string>
+    <string name="counter_value">%1$d / %2$d</string>
+    <string name="counter_state">%1$s %2$d of %3$d</string>
+    <string name="tick_state">TICK %1$d OF %2$d</string>
+    <string name="strip_signs">SIGNS</string>
+    <string name="strip_patience">PATIENCE</string>
+
+    <string name="clause_deliver">DELIVER %1$d</string>
+    <string name="clause_signs">SIGNS MAX %1$d</string>
+    <string name="clause_ticks">TICKS MAX %1$d</string>
+    <string name="clause_actual">%1$d</string>
+
+    <string name="weather_clear">CLEAR</string>
+    <string name="weather_rain">RAIN</string>
+    <string name="weather_fog">FOG</string>
+    <string name="weather_wind">WIND</string>
+
+    <string name="stat_level">LEVEL</string>
+    <string name="stat_medals">MEDALS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_ticks">TICKS</string>
+    <string name="stat_near_miss">NEAR MISS</string>
+
+    <string name="settings_title">DISPATCH SETTINGS</string>
+    <string name="settings_tick_speed">TICK SPEED</string>
+    <string name="speed_calm">CALM</string>
+    <string name="speed_standard">STANDARD</string>
+    <string name="speed_brisk">BRISK</string>
+    <string name="settings_ribbon">RHYTHM RIBBON</string>
+    <string name="settings_ribbon_hint">Lane preview in the strip. Off gives a scoring bonus.</string>
+    <string name="settings_contrast">HIGH CONTRAST PAINT</string>
+    <string name="settings_contrast_hint">Brighter, wider road dashes for the dusk palette.</string>
+    <string name="settings_confirm_go">CONFIRM GO</string>
+    <string name="settings_confirm_go_hint">Ask before starting a run with spare signs or no route.</string>
+
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_unlocked">UNLOCKED</string>
+
+    <string name="pause_title">SHIFT ON HOLD</string>
+    <string name="pause_body">The lanes are frozen while you decide.</string>
+    <string name="confirm_go_title">SEND THE COURIER</string>
+    <string name="confirm_go_body">You still have signs in hand or no route queued. Run the shift anyway?</string>
+
+    <string name="result_delivered">PARCELS DELIVERED</string>
+    <string name="result_route_complete">ROUTE COMPLETE</string>
+    <string name="result_clipped">CLIPPED AT THE CROSSING</string>
+    <string name="result_out_of_ticks">SHIFT RAN OUT</string>
+
+    <string name="medal_gold">GOLD MEDAL</string>
+    <string name="medal_silver">SILVER MEDAL</string>
+    <string name="medal_bronze">BRONZE MEDAL</string>
+    <string name="medal_none">NO MEDAL YET</string>
+
+    <string name="score_value">%1$d</string>
+    <string name="score_state">SCORE %1$d</string>
+
+    <string name="replay_title">REPLAY TIMELINE</string>
+    <string name="replay_caption">TICK %1$d · LANE %2$s · %3$s</string>
+    <string name="event_start">SHIFT START</string>
+    <string name="event_move">STEP</string>
+    <string name="event_wait">HOLD</string>
+    <string name="event_pickup">PARCEL PICKED UP</string>
+    <string name="event_deliver">DELIVERED</string>
+    <string name="event_near_miss">NEAR MISS</string>
+    <string name="event_collision">CLIPPED</string>
+    <string name="event_freeze">LANE FROZEN</string>
+    <string name="event_recover">RECOVERING</string>
+
+    <string name="levels_title">CAMPAIGN</string>
+    <string name="levels_fresh_hint">THE SHIFT STARTS AT OAK LANE</string>
+
+    <string name="howto_title">HOW TO PLAY</string>
+    <string name="howto_diagram_title">A CHEVRON CROSSING A FROZEN LANE</string>
+    <string name="howto_rhythm_title">READ THE RHYTHM</string>
+    <string name="howto_rhythm_body">Every lane repeats. The ribbon shows the next six ticks.</string>
+    <string name="howto_route_title">QUEUE THE ROUTE</string>
+    <string name="howto_route_body">Tap cells to schedule one move per tick. Tap the rooster to queue a wait.</string>
+    <string name="howto_sign_title">SPEND SIGNS</string>
+    <string name="howto_sign_body">A sign freezes its lane for two ticks when you step onto it.</string>
+    <string name="howto_contract_title">MEET THE CONTRACT</string>
+    <string name="howto_contract_body">Deliver the parcels, spend few signs, finish early. That is gold.</string>
+
+    <string name="level_oak_lane">OAK LANE CROSSING</string>
+    <string name="level_millpond">MILLPOND JUNCTION</string>
+    <string name="level_harrow_bend">HARROW BEND</string>
+    <string name="level_silo_turn">SILO TURN</string>
+    <string name="level_copper_gate">COPPER GATE</string>
+    <string name="level_thistle_row">THISTLE ROW</string>
+    <string name="level_four_barns">FOUR BARNS</string>
+    <string name="level_drovers_cut">DROVERS CUT</string>
+    <string name="level_lantern_split">LANTERN SPLIT</string>
+    <string name="level_haywain_cross">HAYWAIN CROSS</string>
+    <string name="level_nightfall_fork">NIGHTFALL FORK</string>
+    <string name="level_last_round">LAST ROUND</string>
+
+    <string name="cd_rooster">Rooster courier</string>
+    <string name="cd_barn">Barn depot</string>
+    <string name="cd_parcel">Parcel crate</string>
+    <string name="cd_sign">Crossing sign</string>
+    <string name="cd_tractor">Farm tractor</string>
+    <string name="cd_truck">Hay truck</string>
+</resources>
